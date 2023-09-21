@@ -1,0 +1,35 @@
+{
+  "name": "react-photo-gallery-with-react-sortable-hoc",
+  "version": "0.0.103",
+  "description": null,
+  "keywords": [
+    "react-photo-gallery",
+    "react-sortable-hoc",
+    "gallery",
+    "masonry",
+    "sortable"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "array-move": "2.1.0",
+    "html-to-image": "^1.10.6",
+    "html2canvas": "^1.4.1",
+    "merge-images": "^2.0.0",
+    "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-dom": "^18.2.0",
+    "react-photo-gallery": "8.0.0",
+    "react-sortable-hoc": "1.9.1",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
